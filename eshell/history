@@ -1,0 +1,128 @@
+env
+ls
+./helloworld.pl 
+./helloworld.pl 
+ls
+ls
+ls /Users/Sishaar/.ssh/
+cat /Users/Sishaar/.ssh/id_rsa.pub
+cat /Users/Sishaar/.ssh/id_rsa
+cat /Users/Sishaar/.ssh/known_hosts
+cp /Users/Sishaar/.ssh/id_rsa.pub ~/Google\ Drive/
+ls
+ssh
+whoami
+whereamie
+whereami
+echo "$(whoami)@$(hostname):$PWD"
+echo "$(whoami)@$(hostname)"
+echo "$whoami@$(hostname)"
+echo whoami
+echo $whoami
+whoami
+echo `whoami`
+ls
+hostname
+whomi hostname
+whoami hostname
+hostname
+cd /Users/Sishaar/.ssh/
+ls
+touch authorized_keys
+ls
+cat ~/Google\ Drive/id_rsa.pub 
+cat ~/Google\ Drive/id_rsa.pub >> authorized_keys 
+cat authorized_keys 
+more authorized_keys 
+cat authorized_keys 
+rm ~/Google\ Drive/id_rsa.pub 
+ls
+cat id_rsa.pub
+ls
+cat known_hosts 
+ls
+ls
+git clone https://github.com/SishaarRao/AngularTesting.git
+cd AngularTesting/
+ls
+touch textbook.txt
+ls
+echo pbpaste >> textbook.txt 
+cat textbook.txt 
+pbpaste
+ls
+echo `pbpaste` >> textbook.txt 
+cat textbook.txt 
+echo pbpaste
+echo $pbpaste
+echo `pbpaste`
+ls
+ls
+rm textbook.txt\~
+ls
+git status
+touch gitbash.sh
+ls
+touch .gitignore
+ls
+rm gitbash.sh\~
+ls
+git status
+rm .gitignore\~
+git status
+bash gitbash.sh "Initial Commit"
+ls
+git clone https://github.com/KenWilliamson/LearningAngularJS_chapter1.git
+ls
+git stauts
+git status
+git add LearningAngularJS_chapter1/
+bash gitbash.sh "Chapter 1 HelloWorld Code"
+ls
+cd AngularJsHelloWorld_chapter2/
+ls
+cd public_html/
+ls
+ls
+ls
+ls
+ls
+git status
+cd ..
+ls
+cd ..
+ls
+git status
+bash gitbash.sh "Chapter 2 Hello World"
+ls
+cd
+ls -a
+cd .emacs.d/
+ls
+cat init.el 
+ls
+ls eshell/
+cd eshell/
+ls
+cat alias 
+cat lastdir 
+cd ..
+ls
+ls
+mkdir lisp
+ls
+cd lisp/
+ls
+ls
+cd ..
+ls
+ls
+git clone https://github.com/tlh/workgroups.el.git
+ls
+cp workgroups.el/workgroups.el lisp/
+rm -rf workgroups.el/
+ls
+cd lisp/
+ls
+cd ..
+ls
