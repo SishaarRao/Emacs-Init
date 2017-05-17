@@ -1,2 +1,3 @@
 # Auto Save files
-!auto-save-list/
+/auto-save-list/*
+/eshell/*
