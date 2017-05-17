@@ -1,5 +1,0 @@
-alias nil help $*
-alias (nil)  $*
-alias h  $*
-alias pip pip3 $*
-alias run = ./a.out

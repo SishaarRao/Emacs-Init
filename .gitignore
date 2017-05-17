@@ -1,3 +1,5 @@
 # Auto Save files
 /auto-save-list/*
+
+# Eshell files
 /eshell/*
