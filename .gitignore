@@ -3,3 +3,6 @@
 
 # Eshell files
 /eshell/*
+
+# Gitbash files
+/gitbash.sh
