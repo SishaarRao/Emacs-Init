@@ -44,6 +44,11 @@
 (setq wg-prefix-key (kbd "C-c w"))
 (workgroups-mode 1)
 
+;; lockstep config
+(add-to-list 'load-path "~/.emacs.d/lockstep/")
+(require 'lockstep)
+
+
 ;;Trying to get TeX to work
 (setenv "PATH" (concat (getenv "PATH") ":/Library/TeX/texbin/"))  
 (setq exec-path (append exec-path '("/Library/TeX/texbin/")))
