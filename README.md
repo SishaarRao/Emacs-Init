@@ -9,3 +9,7 @@ I used the second answer from [this](http://stackoverflow.com/questions/7733668/
 
 ### Workstations
 Check out [this](https://github.com/tlh/workgroups.el) Github repo for information about the Workstations addon! The files are located in the `lisp/` directory
+
+
+### Lockstep
+Check out [this](https://github.com/tjim/lockstep) Github repo for information about the Lockstep addon regarding collaborative editing with emacsclient
